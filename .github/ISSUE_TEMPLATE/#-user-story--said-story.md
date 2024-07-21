@@ -7,4 +7,8 @@ assignees: ''
 
 ---
 
-As a **Site user** I can **...** across the site so that **end result**
+As a **Site user** I can **...** across the site so that **I can **
+
+**Given** I am on any page
+**When** I click on any button
+**Then** I expect the correct page to be manifested
